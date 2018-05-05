@@ -1,0 +1,7 @@
+本文件夹包含知识点read、readline、readlines的区别
+join方法
+strip的复习
+文件读取  for的迭代器，避免readlines占用内存过多问题
+with语句，避免文件打开忘记close
+with open('file','r') as f:
+	pass
